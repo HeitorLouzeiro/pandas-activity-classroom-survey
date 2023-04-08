@@ -147,7 +147,7 @@ the average
 
     * Windows 
     ```sh
-     venv/scripts/activate
+     venv\scripts\activate
     ```
 
 5. Install as dependencies.
